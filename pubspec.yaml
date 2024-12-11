@@ -1,0 +1,11 @@
+name: flutter_mono_repo_template
+description: A new Flutter project.
+version: 1.0.0+1
+publish_to: none
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  melos: ^6.0.0

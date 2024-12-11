@@ -1,0 +1,13 @@
+name: flutter_mono_repo_template
+
+sdkPath: .fvm/flutter_sdk
+
+packages:
+  - apps/**
+  - packages/**
+
+scripts:
+  analyze:
+    exec: dart analyze .
+    description: "Analyze the source code"
+

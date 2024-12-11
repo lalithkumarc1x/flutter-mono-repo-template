@@ -1,0 +1,4 @@
+# melos_managed_dependency_overrides: ui_toolkit
+dependency_overrides:
+  ui_toolkit:
+    path: ../../packages/ui_toolkit
